@@ -1,0 +1,123 @@
+Part 1 Research
+Give me five customer avatars for an offer about [OFFER]. The avatars will be based off of the Stages of Market Awareness as taught by Eugene Schwartz in his book Breakthrough Advertising. I want one avatar for each stage
+
+
+These stages are
+
+
+Unaware
+Problem Aware
+Solution Aware
+Product Aware
+Most Aware
+
+
+Put the avatar in the following format
+
+
+Stage of Awareness
+
+
+A → Who Are They
+Name
+Gender
+Job
+Household Income
+Marital Status
+Education Level
+
+
+B → What They Do & Like
+Top 3 Brands they wear
+1-2 Hobbies they have
+Top 5 Favorite movies
+Top 5 Favorite books
+Top 5 visited websites
+Top 5 relevant social media influencers
+
+
+C → Why Are They
+Main Personality Traits
+5 Major Values They Hold
+2 Major Life Victories
+2 Major Life Failures 
+
+
+D → Smart Market Questions
+What keeps them awake at night, eyes open, staring at the ceiling
+What are they secretly afraid of in life
+What are the angry about, and who are they angry at
+Top 3 frustrations they feel every day
+Biggest secret desire in life
+Built-in bias to how they make decisions
+Common words or language unique to them
+Top 3 complaints about existing solutions
+
+
+E → Going Deep
+Top 3 Dominant Negative Emotions
+Top 3 Dominant Positive Emotions From Solving This Problem
+Top 3 Beliefs They Hold About The World
+Biggest Lifestyle Desire
+
+
+F → Purchasing Habits
+Top 3 Decision Triggers
+Prior Purchases For This Pain
+Price Tolerance For Offer
+Time Horizon Of Solution
+
+
+G → Primary Wants
+Wants to gain
+Wants to be
+Wants to do
+Wants to save
+Wants to avoid
+
+
+H → Empathy Map
+Seeing
+Thinking
+Hearing
+Feeling
+Saying
+Doing
+
+
+Make sure each avatar is at least 1000 words.
+
+
+Give me the problem aware avatar
+
+
+
+
+
+
+<context>
+[OFFER]
+Meet Your FTCE Text Buddy from TeachingDream.com: The AI study partner you can text anytime for practice, explanations, and encouragement. Go beyond simple questions and have a real conversation about the FTCE to build the deep understanding you need to pass with confidence.
+[PROBLEM]
+Studying for the FTCE feels isolating and frustrating. You get a practice question wrong, and you're left staring at a textbook explanation that doesn't make sense. There's no one to ask, "Can you explain that a different way?" or "Why is my answer incorrect?" This feeling of being stuck creates a massive mental block, leading to procrastination, anxiety, and the fear that you'll never truly be ready for test day.
+[AUDIENCE]
+	• Primary: Education students approaching graduation who need to pass the FTCE for certification.
+	• Secondary: Career-changers entering teaching who need efficient, flexible study solutions.
+	• Tertiary: Current education students seeking early preparation and confidence building.
+[OFFER DETAILS]
+1. A Real Conversation with Your AI Study Buddy
+This isn't a quiz bot—it's your personal tutor. Text your buddy to work through problems together, organically and at your own pace.
+	• Get Unstuck, Instantly: When you don't understand a question, just ask! Text "Why is this the answer?" or "Explain this concept like I'm 10" and get a clear, simple explanation.
+	• Interactive Learning: Your AI buddy doesn't just grade you; it guides you. It will ask follow-up questions to help you arrive at the right answer on your own, solidifying your knowledge.
+	• No Judgment, Just Help: Feel free to admit you're lost or ask the same question multiple times. Your buddy is endlessly patient and available 24/7.
+	
+2. Learn Organically and Build True Confidence
+Master the material through natural dialogue, not just rote memorization. This is how you build the confidence to handle any question the real exam throws at you.
+	• Bite-Sized Sessions: Start a conversation anytime you have a spare 5 minutes. Text your buddy a topic you're struggling with, and it will start a focused, conversational practice session.
+	• Adaptive Support: The AI learns your weak spots from your conversations and gently steers you toward topics that need more attention, ensuring your study time is always effective.
+	• Comprehensive Content: Your buddy is an expert on all FTCE sections (General Knowledge, Professional, and Subject Area Exams) and is ready to discuss any of the 2,000+ questions in our database.
+	
+[UPDATED PRICING]
+	• 7-Day Free Trial: Full conversational access. Text your AI buddy as much as you want for a week.
+	• $10/month (Text Buddy Plan): Unlimited conversational tutoring with your AI buddy via text. Includes all FTCE content, interactive explanations, and progress tracking.
+	• $19/month (Tutor Pro Plan): Speak to your AI buddy. Includes all FTCE content but includes the ability to interact with it hands free in conversational style.

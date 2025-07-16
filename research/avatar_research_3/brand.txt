@@ -1,0 +1,167 @@
+StudyVoice Brand Identity & Design System
+Brand Identity
+Brand Essence
+	• Empowerment: Transforms overwhelming challenges into manageable steps
+	• Accessibility: Available anytime, anywhere through natural conversation
+	• Support: Provides patient, personalized guidance without judgment
+	• Efficiency: Maximizes learning during everyday activities and routines
+	• Confidence: Builds competence through proven, structured approaches
+	• Innovation: Leverages AI to create breakthrough learning experiences
+	• Reliability: Consistent, trustworthy companion throughout the journey
+Brand Voice
+	• Tone: Encouraging, patient, and knowledgeable - like a supportive mentor who believes in your success
+	• Language: Clear, conversational, and jargon-free with educational terminology explained simply
+	• Communication Style: Solution-focused, emphasizing progress over perfection, celebrating small wins while maintaining realistic expectations
+Brand Narrative
+StudyVoice transforms the overwhelming journey of FTCE preparation into an empowering conversation. For education students juggling work, coursework, and life responsibilities, we provide an AI-powered voice companion that turns dead time into productive study sessions. Through our proven two-stage approach, we first build confidence with question familiarity, then advance to content mastery - all through natural dialogue that fits seamlessly into busy schedules. We believe every future teacher deserves to feel prepared and confident, and we're here to make that dream achievable, one conversation at a time.
+Design System
+Color Palette
+Primary Colors
+	• Gradient Base: The brand's core identity flows from warm encouragement to cool confidence
+	• Primary Colors (Extracted from gradient): 
+		○ Coral (#FF6B6B) - Warmth
+		○ Sunset (#FF8E53) - Energy
+		○ Amber (#FFD93D) - Optimism
+		○ Mint (#6BCF7F) - Growth
+		○ Teal (#4ECDC4) - Trust
+		○ Sky (#45B7D1) - Clarity
+		○ Indigo (#667EEA) - Wisdom
+		○ Violet (#764ABC) - Confidence
+Secondary Colors
+	• Dark Blue (#1E293B) - Primary text
+	• Medium Gray (#64748B) - Secondary text
+	• Light Gray (#F1F5F9) - Backgrounds
+	• White (#FFFFFF) - Pure backgrounds
+	• Black (#000000) - High contrast elements
+Functional Colors
+	• Success (#10B981) - Achievements and progress
+	• Warning (#F59E0B) - Caution and attention
+	• Error (#EF4444) - Mistakes and corrections
+	• Info (#3B82F6) - Information and tips
+Typography
+Font Family
+	• Primary Font: Inter - chosen for exceptional readability across devices and sizes, with excellent character spacing for conversational interfaces
+	• Secondary Font: DM Serif Display - selected for its approachable elegance in headlines, balancing professionalism with warmth
+Font Sizes
+	• Display: 3.5rem (56px) / line-height: 1.1
+	• H1: 3rem (48px) / line-height: 1.1
+	• H2: 2.5rem (40px) / line-height: 1.2
+	• H3: 2rem (32px) / line-height: 1.25
+	• H4: 1.5rem (24px) / line-height: 1.3
+	• H5: 1.25rem (20px) / line-height: 1.4
+	• H6: 1.125rem (18px) / line-height: 1.4
+	• Body Regular: 1rem (16px) / line-height: 1.6
+	• Body Small: 0.875rem (14px) / line-height: 1.5
+	• Body XSmall: 0.75rem (12px) / line-height: 1.4
+	• Caption: 0.625rem (10px) / line-height: 1.3
+Font Weights
+	• Light (300) - Subtle emphasis and elegant displays
+	• Regular (400) - Standard body text and descriptions
+	• Medium (500) - Slight emphasis and secondary headings
+	• Semibold (600) - Important callouts and primary buttons
+	• Bold (700) - Major headings and critical information
+UI Components
+21st.dev Components
+Modern, accessible component library providing Navigation (responsive headers, breadcrumbs), Layout (grids, containers, sections), Forms (inputs, selectors, validation), Feedback (toasts, modals, alerts), Data Display (cards, tables, statistics), and Disclosure (accordions, tabs, tooltips) components.
+MagicUI Components
+	• Animated Voice Waves - Visual feedback during voice interactions
+	• Progress Rings - Animated circular progress indicators for study milestones
+	• Floating Study Cards - Hover effects for question preview cards
+	• Confidence Meters - Animated gauges showing subject area progress
+	• Conversation Bubbles - Smooth typing animations for AI responses
+Custom Components
+	• Voice Agent Visualization - Interactive waveform showing listening and speaking states
+	• Study Progress Dashboard - Comprehensive view of FTCE preparation journey
+	• Question Pattern Analyzer - Visual breakdown of question types and strategies
+	• Confidence Tracker - Subject-specific progress with actionable insights
+Micro-Interactions
+	• Button Hover: Subtle lift with soft shadow and color saturation increase
+	• Form Focus: Smooth border color transition with gentle glow effect
+	• Loading States: Pulsing animations that maintain user engagement
+	• Success Actions: Brief celebratory animations for achievements
+	• Navigation: Smooth slide transitions between sections
+	• Scrolling: Parallax effects for hero sections and testimonials
+Responsive Design
+	• Mobile-First Approach: All components designed for mobile interaction first, then enhanced for larger screens
+	• Breakpoints: sm: 640px, md: 768px, lg: 1024px, xl: 1280px, 2xl: 1536px
+	• Mobile Adaptations: Hamburger navigation menu, vertically stacked layouts, larger touch targets (minimum 44px), simplified typography hierarchy, and optimized voice interaction controls
+Accessibility
+	• Color Contrast: WCAG AA compliance with 4.5:1 ratio for normal text, 3:1 for large text
+	• Keyboard Navigation: Full tab order support with visible focus indicators
+	• Screen Reader Support: Comprehensive ARIA labels and semantic HTML structure
+	• Visible Focus Indicators: High-contrast outlines that respect system preferences
+	• Reduced Motion: Honors user preference for reduced motion with alternative static states
+Dark/Light Mode
+Dual theme support implemented through DaisyUI theme system with automatic system preference detection and user-selectable toggle. Color palette adapts while maintaining contrast ratios and brand recognition across both modes.
+Implementation Guidelines
+CSS Framework
+	• Tailwind CSS: Utility-first framework for rapid, consistent styling
+	• DaisyUI: Semantic component classes built on Tailwind foundation
+	• Custom Utilities: Brand-specific animations and voice interface components
+Animation Library
+	• Framer Motion: Primary library for complex animations, page transitions, and gesture handling
+	• Tailwind Animations: Simple hover effects, loading states, and micro-interactions
+Icon System
+	• Heroicons: Comprehensive, consistent icon set optimized for web interfaces
+	• Custom SVGs: Brand-specific icons for voice interaction and study progress visualization
+Asset Management
+	• SVG: Vector icons and simple illustrations for crisp scaling
+	• WebP: Optimized images with fallback to JPEG for broader support
+	• MP4/WebM: Video content with multiple format support for compatibility
+Code Structure
+	• Component-Based Architecture: Modular, reusable components with clear props interface
+	• Utility-First CSS: Minimal custom CSS with Tailwind utility classes
+	• Responsive Variants: Mobile-first breakpoint system with progressive enhancement
+Design Tokens
+json
+Copy
+{
+  "colors": {
+    "primary": {
+      "coral": "#FF6B6B",
+      "sunset": "#FF8E53", 
+      "amber": "#FFD93D",
+      "mint": "#6BCF7F",
+      "teal": "#4ECDC4",
+      "sky": "#45B7D1",
+      "indigo": "#667EEA",
+      "violet": "#764ABC"
+    },
+    "neutral": {
+      "darkBlue": "#1E293B",
+      "mediumGray": "#64748B",
+      "lightGray": "#F1F5F9",
+      "white": "#FFFFFF",
+      "black": "#000000"
+    },
+    "functional": {
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444",
+      "info": "#3B82F6"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "primary": "Inter, sans-serif",
+      "secondary": "DM Serif Display, serif"
+    }
+  },
+  "spacing": {
+    "xs": "0.25rem",
+    "sm": "0.5rem",
+    "md": "1rem",
+    "lg": "1.5rem",
+    "xl": "2rem",
+    "2xl": "3rem",
+    "3xl": "4rem"
+  },
+  "borderRadius": {
+    "sm": "0.125rem",
+    "md": "0.25rem",
+    "lg": "0.5rem",
+    "xl": "1rem",
+    "full": "9999px"
+  }
+}
+

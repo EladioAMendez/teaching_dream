@@ -1,0 +1,168 @@
+Section 1: Hero Section
+
+Product Requirement: AI SaaS Software - Hero Section
+Purpose: To immediately connect with future teachers struggling with FTCE preparation, presenting StudyVoice as the empowering solution that transforms overwhelming exam prep into manageable, conversational learning.
+UI Components:
+
+Navigation Bar: Clean header with logo, features, pricing, and "Start Free Trial" CTA; sticky on scroll with subtle shadow
+Hero Container: Split layout with compelling headline/subtext on left, animated voice visualization on right
+CTA Button: Prominent "Start Your Free Trial" with gradient background and hover animations
+Background Elements: Subtle animated particles using Vanta.js for depth and engagement
+Voice Wave Animation: Interactive waveform from MagicUI showing listening/speaking states
+Visual Style:
+Theme: Light theme with warm, encouraging gradient backgrounds
+Primary color: Coral to Sky gradient (#FF6B6B to #45B7D1)
+Secondary color: Teal #4ECDC4 for accent elements
+Success color: Mint #6BCF7F for positive reinforcement
+Error/Alert: Error #EF4444 for important notices
+Spacing: 32px outer padding, 24px gutter spacing between elements
+Borders: 1px solid Light Gray #F1F5F9 on interactive elements; 12px border radius for modern feel
+Typography: Inter sans-serif, Semibold (600) for headlines, Regular (400) for body, base size 16px
+Icons/images: Heroicons for navigation; custom voice interaction SVGs; warm, encouraging imagery
+Section 2: Value Proposition / Benefits Snapshot
+
+Product Requirement: AI SaaS Software - Benefits Overview
+Purpose: To quickly showcase the top 3-5 benefits that solve Jessica's core frustrations: time constraints, overwhelming content, and lack of study direction.
+UI Components:
+
+Benefits Grid: 3-column layout on desktop, stacked on mobile with animated icons
+Icon Containers: Circular backgrounds with gradient borders and hover lift effects
+Benefit Cards: Clean cards with subtle shadows and hover animations from ReactBits
+Animated Counters: Progress numbers that count up on scroll using MagicUI
+Floating Elements: Subtle floating animations for visual interest
+Visual Style:
+Theme: Light background with gradient accent cards
+Primary color: Sunset #FF8E53 for icon backgrounds
+Secondary color: Sky #45B7D1 for card borders and accents
+Accent color: Amber #FFD93D for highlight elements
+Success color: Mint #6BCF7F for achievement indicators
+Spacing: 24px outer padding, 20px between benefit cards
+Borders: 2px solid Light Gray #F1F5F9 on cards with Teal #4ECDC4 hover state; 16px border radius
+Typography: Inter sans-serif, Medium (500) for benefit titles, Regular (400) for descriptions
+Icons/images: Custom voice and education-themed icons; animated SVGs for engagement
+Section 3: Social Proof (Customer Testimonials)
+
+Product Requirement: AI SaaS Software - Testimonials Section
+Purpose: To build trust and credibility through authentic student success stories, showing transformation from overwhelmed to confident.
+UI Components:
+
+Testimonial Carousel: Smooth sliding carousel with auto-play and manual controls
+Student Profile Cards: Photo, name, school, and quote with star ratings
+Rating Display: Animated star ratings that fill on scroll
+Quote Animations: Typing effect animations for testimonial text using MagicUI
+Trust Badges: Small credential indicators and app store ratings
+Visual Style:
+Theme: Soft gradient background transitioning from Light Gray #F1F5F9 to White #FFFFFF
+Primary color: Indigo #667EEA for quote marks and accent elements
+Secondary color: Violet #764ABC for student name highlighting
+Accent color: Coral #FF6B6B for star ratings
+Success color: Mint #6BCF7F for achievement badges
+Spacing: 28px outer padding, 16px between testimonial cards
+Borders: 1px solid Medium Gray #64748B on card outlines; 20px border radius for modern feel
+Typography: DM Serif Display for quotes, Inter Medium (500) for names, Regular (400) for details
+Icons/images: Student profile photos; star rating icons; subtle pattern backgrounds
+Section 4: Product Showcase (Visual Demo)
+
+Product Requirement: AI SaaS Software - Product Demonstration
+Purpose: To visually demonstrate the voice-first learning experience, showing how natural conversation makes FTCE prep accessible and engaging.
+UI Components:
+
+Demo Video Container: Embedded video player with custom controls and play overlay
+Feature Tabs: Interactive tabs showing different product capabilities
+Screen Mockups: Device mockups showing app interface with realistic content
+Interactive Elements: Clickable hotspots revealing feature details
+Progress Indicators: Animated progress bars showing study advancement
+Visual Style:
+Theme: Clean white background with subtle gradient overlays
+Primary color: Teal #4ECDC4 for video player controls and tab indicators
+Secondary color: Sky #45B7D1 for interactive elements and highlights
+Accent color: Sunset #FF8E53 for call-out features
+Info color: Info #3B82F6 for helpful tips and explanations
+Spacing: 32px outer padding, 24px between demo elements
+Borders: 2px solid Light Gray #F1F5F9 on mockup frames; 8px border radius
+Typography: Inter Medium (500) for feature labels, Regular (400) for descriptions
+Icons/images: High-quality product screenshots; play button icons; feature illustration graphics
+Section 5: Call-to-Action (Mid-page)
+
+Product Requirement: AI SaaS Software - Mid-page Conversion
+Purpose: To capture users who are convinced after seeing benefits and social proof, providing immediate pathway to trial signup.
+UI Components:
+
+CTA Container: Prominent section with gradient background and centered content
+Sign-up Form: Simple email input with inline validation
+Action Button: Large, animated button with hover effects and loading states
+Trust Indicators: Security badges and "no credit card required" messaging
+Floating CTA: Sticky header bar that appears on scroll with persistent trial offer
+Visual Style:
+Theme: Gradient background from Coral #FF6B6B to Violet #764ABC
+Primary color: White #FFFFFF for text and form elements
+Secondary color: Amber #FFD93D for trust badges and security indicators
+Accent color: Mint #6BCF7F for form validation success states
+Button color: White #FFFFFF with Dark Blue #1E293B text for high contrast
+Spacing: 40px outer padding, 20px between form elements
+Borders: 2px solid White #FFFFFF on form inputs; 50px border radius for pill-shaped button
+Typography: Inter Semibold (600) for headlines, Medium (500) for button text
+Icons/images: Security shield icons; arrow indicators; subtle geometric patterns
+Section 6: Urgency/Special Offer
+
+Product Requirement: AI SaaS Software - Limited Time Offer
+Purpose: To create gentle urgency for hesitant visitors while maintaining authentic, helpful tone that builds on Jessica's decision-making preferences.
+UI Components:
+
+Offer Banner: Thin banner at top with countdown timer and promotional messaging
+Countdown Timer: Real-time countdown with animated number flips
+Promotional Card: Highlighted offer section with special pricing or extended trial
+Progress Bar: Visual indicator showing limited availability or time remaining
+Floating Notification: Subtle popup reminding of offer when user shows exit intent
+Visual Style:
+Theme: Warm Warning #F59E0B background with high contrast text
+Primary color: Dark Blue #1E293B for primary text and countdown numbers
+Secondary color: White #FFFFFF for contrast elements and backgrounds
+Accent color: Coral #FF6B6B for urgency indicators and highlights
+Success color: Mint #6BCF7F for positive reinforcement messaging
+Spacing: 16px outer padding for banner, 24px for promotional cards
+Borders: 1px solid Medium Gray #64748B on card elements; 8px border radius
+Typography: Inter Medium (500) for offer text, Bold (700) for countdown and savings
+Icons/images: Clock icons; gift/offer icons; subtle urgency indicators
+Section 7: Frequently Asked Questions
+
+Product Requirement: AI SaaS Software - FAQ Section
+Purpose: To address common concerns about AI tutoring, pricing, and effectiveness while maintaining StudyVoice's supportive, encouraging tone.
+UI Components:
+
+Accordion Interface: Expandable question cards with smooth animations
+Question Cards: Individual cards with icons and expandable content areas
+Search Function: Quick search bar to find specific questions
+Category Tabs: Organized FAQ topics (Pricing, Features, Privacy, etc.)
+Help Widget: Floating help button for additional support access
+Visual Style:
+Theme: Light Gray #F1F5F9 background with White #FFFFFF card backgrounds
+Primary color: Dark Blue #1E293B for question text and main content
+Secondary color: Medium Gray #64748B for secondary information
+Accent color: Teal #4ECDC4 for expand/collapse indicators and category tabs
+Success color: Mint #6BCF7F for helpful tip highlights
+Spacing: 24px outer padding, 12px between question cards
+Borders: 1px solid Light Gray #F1F5F9 on card borders; 12px border radius
+Typography: Inter Medium (500) for questions, Regular (400) for answers
+Icons/images: Question mark icons; expand/collapse arrows; category indicator icons
+Section 8: Final CTA / Sign-Up Section
+
+Product Requirement: AI SaaS Software - Final Conversion Section
+Purpose: To provide the final, compelling push for trial signup with reinforcement of key benefits and removal of any remaining barriers.
+UI Components:
+
+Hero CTA Container: Full-width section with gradient background and centered content
+Final Sign-up Form: Streamlined form with social proof elements
+Benefit Reinforcement: Quick bullet points of key advantages
+Trust Indicators: Security badges, testimonial snippets, and guarantee messaging
+Success Animation: Celebration animation for completed signups
+Visual Style:
+Theme: Gradient background from Sky #45B7D1 to Indigo #667EEA
+Primary color: White #FFFFFF for text and form elements
+Secondary color: Amber #FFD93D for trust badges and benefit indicators
+Accent color: Coral #FF6B6B for final action button
+Success color: Mint #6BCF7F for confirmation states and guarantees
+Spacing: 48px outer padding, 24px between content elements
+Borders: 2px solid White #FFFFFF on form elements; 16px border radius for cards
+Typography: DM Serif Display for final headline, Inter Semibold (600) for CTA button
+Icons/images: Checkmark icons for benefits; security shield icons; celebration graphics
